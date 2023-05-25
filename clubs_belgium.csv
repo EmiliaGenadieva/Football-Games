@@ -1,0 +1,26 @@
+,club_id,club_code,name,domestic_competition_id,total_market_value,squad_size,average_age,foreigners_number,foreigners_percentage,national_team_players,stadium_name,stadium_seats,net_transfer_record,coach_name,url
+6,566,beerschot-ac,Beerschot Ac,BE1,,0,,0,,0,Olympisch Stadion,12771,+-0,Adrie Koster,https://www.transfermarkt.co.uk/beerschot-ac/startseite/verein/566
+18,1411,raec-mons,Raec Mons,BE1,,0,,0,,0,Charles Tondreau Stadion,12662,+-0,Enzo Scifo,https://www.transfermarkt.co.uk/raec-mons/startseite/verein/1411
+31,204,lierse-sk,Lierse Sk,BE1,,0,,0,,0,Herman Vanderpoortenstadion,14538,+-0,Stanley Menzo,https://www.transfermarkt.co.uk/lierse-sk/startseite/verein/204
+82,498,ksc-lokeren,Ksc Lokeren,BE1,,0,,0,,0,Daknamstadion,12000,+-0,Peter Maes,https://www.transfermarkt.co.uk/ksc-lokeren/startseite/verein/498
+114,29228,royal-excel-mouscron,Royal Excel Mouscron,BE1,4.21,28,25.9,15,53.6,3,Le Canonnier,10830,+-0,Fernando Da Cruz,https://www.transfermarkt.co.uk/royal-excel-mouscron/startseite/verein/29228
+132,28643,waasland-beveren,Waasland Beveren,BE1,8.21,27,25.5,14,51.9,2,Freethielstadion,13290,+£1.26m,Nicky Hayen,https://www.transfermarkt.co.uk/waasland-beveren/startseite/verein/28643
+157,41274,beerschot-v-a-,Beerschot V A ,BE1,13.41,26,25.9,15,57.7,2,Olympisch Stadion,12771,£-2.01m,Greg Vanderidt,https://www.transfermarkt.co.uk/beerschot-v-a-/startseite/verein/41274
+320,2715,rfc-seraing,Rfc Seraing,BE1,,28,23.7,19,67.9,2,Stade du Paray,6744,+-0,,https://www.transfermarkt.co.uk/rfc-seraing/startseite/verein/2715
+323,475,vv-st-truiden,Vv St Truiden,BE1,,23,26.2,15,65.2,3,Stayen,14600,+€3.00m,,https://www.transfermarkt.co.uk/vv-st-truiden/startseite/verein/475
+326,354,kv-mechelen,Kv Mechelen,BE1,,31,24.2,11,35.5,3,AFAS Stadion,16672,+€4.25m,,https://www.transfermarkt.co.uk/kv-mechelen/startseite/verein/354
+327,601,kv-kortrijk,Kv Kortrijk,BE1,,28,25.0,20,71.4,5,Guldensporenstadion,9399,€-459k,,https://www.transfermarkt.co.uk/kv-kortrijk/startseite/verein/601
+328,3508,sv-zulte-waregem,Sv Zulte Waregem,BE1,,30,25.2,17,56.7,4,Elindus Arena,12250,€-150k,,https://www.transfermarkt.co.uk/sv-zulte-waregem/startseite/verein/3508
+329,520,cercle-brugge,Cercle Brugge,BE1,,23,23.8,14,60.9,4,Jan-Breydel-Stadion,29062,€-1.25m,,https://www.transfermarkt.co.uk/cercle-brugge/startseite/verein/520
+331,3057,standard-luttich,Standard Luttich,BE1,,25,24.2,13,52.0,5,Maurice Dufrasne Stadion,27670,+€1.61m,,https://www.transfermarkt.co.uk/standard-luttich/startseite/verein/3057
+332,3948,royale-union-saint-gilloise,Royale Union Saint Gilloise,BE1,,24,24.9,17,70.8,6,Stade Joseph Mariën,8000,+€8.22m,,https://www.transfermarkt.co.uk/royale-union-saint-gilloise/startseite/verein/3948
+333,157,kaa-gent,Kaa Gent,BE1,,25,26.0,12,48.0,5,Ghelamco Arena,19999,€-2.45m,,https://www.transfermarkt.co.uk/kaa-gent/startseite/verein/157
+334,58,rsc-anderlecht,Rsc Anderlecht,BE1,,26,24.4,12,46.2,10,Lotto Park,21500,+€22.90m,,https://www.transfermarkt.co.uk/rsc-anderlecht/startseite/verein/58
+335,1096,royal-antwerpen-fc,Royal Antwerpen Fc,BE1,,26,24.9,14,53.8,4,De Bosuil,16144,€-11.41m,,https://www.transfermarkt.co.uk/royal-antwerpen-fc/startseite/verein/1096
+336,1184,krc-genk,Krc Genk,BE1,,28,22.7,18,64.3,10,Cegeka Arena,24956,+€34.22m,,https://www.transfermarkt.co.uk/krc-genk/startseite/verein/1184
+337,2861,kv-oostende,Kv Oostende,BE1,,32,23.9,19,59.4,4,Diaz Arena,8432,+€9.60m,,https://www.transfermarkt.co.uk/kv-oostende/startseite/verein/2861
+339,968,kvc-westerlo,Kvc Westerlo,BE1,,27,26.2,16,59.3,4,Het Kuipje,8035,+€9.61m,,https://www.transfermarkt.co.uk/kvc-westerlo/startseite/verein/968
+340,2727,oud-heverlee-leuven,Oud Heverlee Leuven,BE1,,22,25.3,11,50.0,4,King Power at Den Dreef Stadion,10020,€-3.50m,,https://www.transfermarkt.co.uk/oud-heverlee-leuven/startseite/verein/2727
+346,1245,kas-eupen,Kas Eupen,BE1,,32,23.3,22,68.8,9,Kehrweg-Stadion,8331,+€1.24m,,https://www.transfermarkt.co.uk/kas-eupen/startseite/verein/1245
+355,2282,fc-brugge,Fc Brugge,BE1,,30,23.7,17,56.7,14,Jan-Breydel-Stadion,29062,+€8.80m,,https://www.transfermarkt.co.uk/fc-brugge/startseite/verein/2282
+361,172,rsc-charleroi,Rsc Charleroi,BE1,,24,24.1,16,66.7,7,Stade du Pays de Charleroi,15000,+€6.45m,,https://www.transfermarkt.co.uk/rsc-charleroi/startseite/verein/172
